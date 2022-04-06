@@ -22,3 +22,4 @@ paste output here
 # Interesting URLs:
 
 https://www.w3schools.com/colors/colors_rgb.asp
+https://pypi.org/project/colorgram.py/
